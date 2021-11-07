@@ -14,8 +14,8 @@ https://movies-recommend-infinitycodex.herokuapp.com/
 
 # APPROCH & METHODOLOGY FOR THIS PROJECT:
 
-At first I imported all the essential libraries such as Pandas, Numpy, Flask, Tensorflow...etc. Then I started to create a basic Flask model.
-After that at home function I took the opinion of user. Then I passed it to the Prediction function in which with the help of Bidirectinal GRU are precicting the emotions of the users and showing them ads based on that.
+At first I imported all the essential libraries such as Pandas, Numpy, Flask, Tensorflow...etc. Then I started to create a our model.
+After that I took the favourite flim of user. Then I passed it to the Prediction function in which with the help of cosine similairty we are predicting the top 5 similar flims which user will enjoy.
 
 # APPLICATION PREVIEW:
 
