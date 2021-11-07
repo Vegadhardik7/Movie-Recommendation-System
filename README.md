@@ -3,7 +3,7 @@ This is an complete End-to-End movie recommendation system which will help you t
 
 # CHECK OUT WEB-APPLICATION:
 
-https://nlpproductmarketing.herokuapp.com/
+https://movies-recommend-infinitycodex.herokuapp.com/
 
 # TECHNOLOGIES USED:
 
@@ -21,8 +21,5 @@ After that at home function I took the opinion of user. Then I passed it to the 
 
 Example:
 
-![](p1.png)
-
-
-![](p2.png)
+![](brave_YcRY9TFCUJ.png)
 
